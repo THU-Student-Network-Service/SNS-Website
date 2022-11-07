@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 通用人工智能实验班。本网站采用协议 {license}'
+    notice: '© {year} 清华大学学生网络服务队。本网站采用协议 {license}。京ICP备14018999号-9。'
     license:
       enable: true
       allow_derivatives: false
@@ -70,8 +70,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
+    url: 'https://github.com/THU-Student-Network-Service/SNS-Website'
+    content_dir: public
     branch: main
   avatar:
     gravatar: false
