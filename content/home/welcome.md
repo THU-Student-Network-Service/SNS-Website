@@ -6,7 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: 清华大学学生网络服务队
+title: 学生网服SNS
 hero_media: ops.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>清华大学学生网络服务队</title>
+    <link>https://thusns.net/</link>
+      <atom:link href="https://thusns.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>清华大学学生网络服务队</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thusns.net/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>清华大学学生网络服务队</title>
+      <link>https://thusns.net/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://thusns.net/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://thusns.net/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GenDexGrasp: Generalizable Dexterous Grasping</title>
+      <link>https://thusns.net/publication/2022/gendexgrasp/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/publication/2022/gendexgrasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thusns.net/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thusns.net/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thusns.net/publication/2022/bo-qsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/publication/2022/bo-qsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>动态</title>
+      <link>https://thusns.net/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>清华大学学生网络服务队</title>
+      <link>https://thusns.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thusns.net/about/</guid>
+      <description>&lt;p&gt;学生网络服务队（Student Network Service）是信息化技术中心（原网络中心、计算中心和电教中心合并）和学生处勤工助学大队共同管理的学生勤工组织，协助信息化技术中心，接听服务热线电话、在用户服务大厅接待用户来访、解答师生关于学校信息系统和校园网络的咨询和问题，经验丰富、能力较强的队员还可参与上门网络检查和系统测试等技术支持工作。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;服务热线：010-62784859, 010-62771940&lt;/li&gt;
+&lt;li&gt;服务时间：08:00 - 22:00&lt;/li&gt;
+&lt;li&gt;微信公众号：学生网服 SNS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets.thusns.net/profiles/qr-code.png&#34; alt=&#34;学生网服 SNS 微信公众号二维码&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
